@@ -1,5 +1,4 @@
 ## Hi, I'm Isaac 👋
-I am a software developer student 
 
 #### Yo can find me:
 
