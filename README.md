@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hi, I'm Isaac 👋
+I am a software developer student 
+
+#### Yo can find me:
+
+* [Twitter](https://twitter.com/isaacdelahoz_)
+* [Instagram](https://www.instagram.com/isaacdelahoz_/)
+* [Medium](https://medium.com/@isdereal99)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idelahoz14&layout=compact)
 
 <!--
 **idelahoz14/idelahoz14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
