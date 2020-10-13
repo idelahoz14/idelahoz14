@@ -1,6 +1,6 @@
 ## Hi, I'm Isaac 👋
 
-#### Yo can find me:
+#### Yo can find me :point_down:
 
 * [Twitter](https://twitter.com/isaacdelahoz_)
 * [Instagram](https://www.instagram.com/isaacdelahoz_/)
