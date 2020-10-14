@@ -1,6 +1,6 @@
 ## Hi, I'm Isaac 👋
 
-![Screen Shot 2020-10-13 at 12 54 39 PM](https://user-images.githubusercontent.com/64045995/95897800-bbd9ec80-0d53-11eb-8eea-655c242c3c7a.png)
+![](https://user-images.githubusercontent.com/64045995/95897800-bbd9ec80-0d53-11eb-8eea-655c242c3c7a.png)
 
 #### Yo can find me :point_down:
 
