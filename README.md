@@ -17,7 +17,7 @@
 
 ## Yo can find me :point_down:
 
-<p  align="center">
+<p>
   <a href="https://www.linkedin.com/in/isaacdelahoz/">
     <img src="https://user-images.githubusercontent.com/64045995/105786720-9dd37900-5f4b-11eb-9c54-c201c061f03c.png">
   </a>
