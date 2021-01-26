@@ -1,14 +1,23 @@
-## Hi, I'm Isaac 👋
+# Hi, I'm Isaac 👋
 
-## About me 👨🏻‍💻
+##  👨🏻‍💻  About me
 
-* 🔭 Fullstack software developer.
-* 🌱 Enthusiastic about design, algorithms, web development, and music.
-* 👯 Skills in teamwork, problem solving and leadership.
-* ⚡ Music and travel lover
+* 🔭  Fullstack software developer.
+* 🌱  Enthusiastic about design, algorithms, web development, and music.
+* 👯  Skills in teamwork, problem solving and leadership.
+* ⚡   Music and travel lover
+
+
+## Skills
+
+* 💻  C | Python | Java
+* 🌐  HTML5 | CSS3
+* 🔧  Visual Studio code
+
 
 ## Yo can find me :point_down:
 
+* 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idelahoz14&layout=compact)
 
