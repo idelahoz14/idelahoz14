@@ -17,11 +17,19 @@
 
 ## Yo can find me :point_down:
 
-![linkedin](https://user-images.githubusercontent.com/64045995/105786720-9dd37900-5f4b-11eb-9c54-c201c061f03c.png)
+<p  align="center">
+  <a href="https://www.linkedin.com/in/isaacdelahoz/">
+    <img src="https://user-images.githubusercontent.com/64045995/105786720-9dd37900-5f4b-11eb-9c54-c201c061f03c.png">
+  </a>
 
-![twitter](https://user-images.githubusercontent.com/64045995/105787128-60232000-5f4c-11eb-8d81-93e107918a5b.png)
+  <a href="https://twitter.com/isaacdelahoz_">
+    <img src="https://user-images.githubusercontent.com/64045995/105787128-60232000-5f4c-11eb-8d81-93e107918a5b.png">
+  </a>
 
-![gmail](https://user-images.githubusercontent.com/64045995/105787187-7e891b80-5f4c-11eb-8440-a4bdd25430b1.png)
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBpgXRgBrtfKQxJsDRWdqczwGTmGFZjbDjGrQHCplvBMCSNlxxBRSTWwDZKrlTTxvpSSJGd">
+    <img src="https://user-images.githubusercontent.com/64045995/105787187-7e891b80-5f4c-11eb-8440-a4bdd25430b1.png">
+  </a>
+</p>
 
 ##
 
