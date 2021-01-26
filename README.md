@@ -1,12 +1,14 @@
 ## Hi, I'm Isaac 👋
 
-![](https://user-images.githubusercontent.com/64045995/95897800-bbd9ec80-0d53-11eb-8eea-655c242c3c7a.png)
+## About me 👨🏻‍💻
 
-#### Yo can find me :point_down:
+* 🔭 Fullstack software developer.
+* 🌱 Enthusiastic about design, algorithms, web development, and music.
+* 👯 Skills in teamwork, problem solving and leadership.
+* ⚡ Music and travel lover
 
-* [Twitter](https://twitter.com/isaacdelahoz_)
-* [Instagram](https://www.instagram.com/isaacdelahoz_/)
-* [Medium](https://medium.com/@isdereal99)
+## Yo can find me :point_down:
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idelahoz14&layout=compact)
 
