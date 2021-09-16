@@ -2,6 +2,23 @@
 
 ##  👨🏻‍💻  About me
 
+* Holberton school student. I have
+acquired knowledge on software
+development and differents languages
+(Python, JavaScript and Ruby) and
+low-level (C) by myself and in the
+bootcamp. I have good programing
+skills which I have demonstrated
+throught differents projects that I have
+taken.
+I am especially careful of writing clean,
+efficient, testable and scalable code.
+Also I have worked with front-end
+technologies such as HTML, CSS,
+JavaScript and React. I am a
+progressive learner both personally and
+professionally.
+
 * 🔭  Fullstack software developer.
 * 🌱  Enthusiastic about design, algorithms, web development, and music.
 * 👯  Skills in teamwork, problem solving and leadership.
