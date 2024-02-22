@@ -2,22 +2,8 @@
 
 ##  👨🏻‍💻  About me
 
-* Holberton school student. I have
-acquired knowledge on software
-development and differents languages
-(Python, JavaScript and Ruby) and
-low-level (C) by myself and in the
-bootcamp. I have good programing
-skills which I have demonstrated
-throught differents projects that I have
-taken.
-I am especially careful of writing clean,
-efficient, testable and scalable code.
-Also I have worked with front-end
-technologies such as HTML, CSS,
-JavaScript and React. I am a
-progressive learner both personally and
-professionally.
+* Isaac is a software developer with more than 1 years of experience in creating innovative technological solutions. He has worked with multiple versions and business domains, showing his quick learning capabilities. 
+He has developed a strong foundation in software development cultivated through years of working on personal projects and freelance assignments, I've honed the ability to deliver high-quality software swiftly while adhering to agile methodologies. My career has seen active participation in the entire development lifecycle, where I've consistently demonstrated a meticulous approach to crafting clean, efficient, testable, secure, and scalable code. I consider myself a fast learner, both personally and professionally.
 
 * 🔭  Fullstack software developer.
 * 🌱  Enthusiastic about design, algorithms, web development, and music.
