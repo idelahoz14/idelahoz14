@@ -13,7 +13,7 @@ He has developed a strong foundation in software development cultivated through 
 
 ## Skills
 
-* 💻  C | Python | Java
+* 💻  PHP | React | Python
 * 🌐  HTML5 | CSS3
 * 🔧  Visual Studio code
 
