@@ -15,6 +15,8 @@ Isaac is a software developer with more than one year of experience creating inn
 - 🌐 HTML5 | CSS3
 - 🔧 Visual Studio Code
 
+##
+
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 ## You can find me here:
